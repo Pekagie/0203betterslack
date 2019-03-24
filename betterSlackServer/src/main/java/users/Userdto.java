@@ -1,4 +1,4 @@
-package Communicator;
+package users;
 
 import java.util.UUID;
 
